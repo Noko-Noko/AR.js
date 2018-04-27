@@ -35,5 +35,4 @@ THREEx.ArMarkerHelper = function(markerControls){
 	mesh.rotation.x = -Math.PI/2
 
 	this.object3d.add(mesh)
-	
 }
